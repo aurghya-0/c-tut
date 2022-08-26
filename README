@@ -1,0 +1,18 @@
+Pointer Programs
+-------------------
+1. Swap two numbers using pointers (call by reference).
+2. Access elements of an array using pointers.
+3. Read infinite numbers in ascending order.
+4. Find maximum number using pointer.
+5. Find average of numbers using pointer.
+6. Reverse a word in string using pointers.
+7. Check palindrome using pointers.
+8. Print string using pointers.
+9. Find length of a string using pointers.
+10. C program to return more than one value from a function.
+
+Structure Programs
+-------------------
+1. Make an employee data list (employee name, employee I'd, employee salary) and print it in table format.
+2. Calculate the distance between two co-ordinates.
+3. Add two complex numbers.
